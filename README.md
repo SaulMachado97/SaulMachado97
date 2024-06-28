@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SaulMachado97
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning docker and AWS
 - 💞️ I’m looking to collaborate on anywhere that appreciates my work
 - 📫 How to reach me ingmachado07@gmail.com
 
